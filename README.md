@@ -27,7 +27,7 @@ I am a **Front-End Developer** passionate about building responsive and user-fri
 - Git, GitHub
 
 ### 📫 How to reach me:
-- Email: [youremail@example.com](mailto:suryanilestari123@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/suryani-lestari)
+- Email: [suryanilestari123@gmail.com](mailto:suryanilestari123@gmail.com)
+- LinkedIn: [Suryani Lestari](https://linkedin.com/in/suryani-lestari)
 
 Feel free to explore my repositories below!
