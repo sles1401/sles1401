@@ -23,11 +23,11 @@ I am a **Front-End Developer** passionate about building responsive and user-fri
 ### 💻 Technologies & Tools:
 - HTML, CSS, JavaScript (ES6+), TypeScript
 - React.js, Next.js, Bootstrap
-- Android (Java/Kotlin), Firebase
-- Git, GitHub, Figma
+- Android (React Native)
+- Git, GitHub
 
 ### 📫 How to reach me:
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: [youremail@example.com](mailto:suryanilestari123@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/suryani-lestari)
 
 Feel free to explore my repositories below!
