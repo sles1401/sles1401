@@ -18,7 +18,7 @@ I am a **Front-End Developer** passionate about building responsive and user-fri
 
 - 🔭 Working on React.js.
 - 🌱 Learning more about advanced TypeScript and Zustand for state management.
-- 💬 Ask me about Front-End development and UI/UX design.
+- 💬 Ask me about Front-End development.
 
 ### 💻 Technologies & Tools:
 - HTML, CSS, JavaScript (ES6+), TypeScript
