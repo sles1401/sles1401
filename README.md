@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I am a **Front-End Developer** passionate about building responsive and user-friendly web and mobile applications. I'm currently focused on:
 
-- 🔭 Working on React.js and Android development.
+- 🔭 Working on React.js.
 - 🌱 Learning more about advanced TypeScript and Zustand for state management.
 - 💬 Ask me about Front-End development and UI/UX design.
 
