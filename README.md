@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Suryani Lestari 👋
 
-I am a **Front-End Developer** passionate about building responsive and user-friendly web and mobile applications. I'm currently focused on:
+I am a **Front-End Developer** passionate about building responsive and user-friendly web applications. I'm currently focused on:
 
 - 🔭 Working on React.js.
 - 🌱 Learning more about advanced TypeScript and Zustand for state management.
