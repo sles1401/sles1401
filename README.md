@@ -8,7 +8,7 @@ I am a **Front-End Developer** passionate about building responsive and user-fri
 
 ### 💻 Technologies & Tools:
 - **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript
-- **Frameworks**: React.js, Next.js, Bootstrap, Zustand
+- **Frameworks**: React.js, Bootstrap, Zustand
 - **Mobile Development**: React Native
 - **Database**: MySQL
 - **Version Control**: Git, GitHub
