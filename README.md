@@ -1,30 +1,17 @@
-<!--
-**sles1401/sles1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Suryani Lestari 👋
 
 I am a **Front-End Developer** passionate about building responsive and user-friendly web applications. I'm currently focused on:
 
-- 🔭 Working on React.js.
+- 🔭 Working on React.js projects.
 - 🌱 Learning more about advanced TypeScript and Zustand for state management.
-- 💬 Ask me about Front-End development.
+- 💬 Ask me about Front-End development, React.js, and building scalable UI/UX experiences.
 
 ### 💻 Technologies & Tools:
-- HTML, CSS, JavaScript (ES6+), TypeScript
-- React.js, Next.js, Bootstrap
-- Android (React Native)
-- Git, GitHub
+- **Languages**: HTML, CSS, JavaScript (ES6+), TypeScript
+- **Frameworks**: React.js, Next.js, Bootstrap, Zustand
+- **Mobile Development**: React Native
+- **Database**: MySQL
+- **Version Control**: Git, GitHub
 
 ## My Skills 🔥
 <p align="left">
@@ -34,14 +21,21 @@ I am a **Front-End Developer** passionate about building responsive and user-fri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
-### 📫 How to reach me:
-- Email: [suryanilestari123@gmail.com](mailto:suryanilestari123@gmail.com)
-- LinkedIn: [Suryani Lestari](https://linkedin.com/in/suryani-lestari)
+## My Stats ⚡
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sles1401&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sles1401&layout=compact&theme=dark)
+
+## Connect with Me! 🤝
+<p align="left">
+  <a href="mailto:suryanilestari123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/suryani-lestari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/sles1401"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.instagram.com/sles1401/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
 
 Feel free to explore my repositories below!
