@@ -27,6 +27,23 @@ Database Management: MySQL.
 
 Version Control: Git, GitHub.
 
+## 🚀 Featured Project
+### [HMS QA Hub Pro](https://hms-qa-hub-pro.vercel.app/)
+Sebuah platform manajemen QA kustom yang dirancang untuk melacak eksekusi pengujian, manajemen *test case*, dan visualisasi laporan bug secara real-time yang terintegrasi dengan Looker Studio.
+* **Fitur Utama:** Test Case Tracking, Bug Reporting Analytics, Automation Learning Roadmap.
+
+## 🎯 Automation Learning Roadmap
+- [x] Manual Testing & Test Case Design
+- [x] UI Automation with Playwright (In Progress)
+- [ ] API Automation Testing (Rest-Assured / Playwright)
+- [ ] CI/CD Integration for QA Workflows (GitHub Actions)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sles1401&theme=darkhub&no-bg=true" alt="sles1401 trophies" />
+</p>
+
+* **Sharing & Mentoring:** Menyusun modul pembelajaran esensial untuk membantu rekan-rekan yang ingin memulai karier di bidang Quality Assurance.
+
 My Stats ⚡
 Connect with Me! 🤝
 Feel free to explore my repositories below!
