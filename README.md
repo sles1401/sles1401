@@ -39,7 +39,7 @@ A custom QA management platform designed to track test execution, manage test ca
 - [ ] CI/CD Integration for QA Workflows (GitHub Actions)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sles1401&theme=darkhub&no-bg=true" alt="sles1401 trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sles1401&show_icons=true&theme=dark" alt="Suryani's GitHub Stats" />
 </p>
 
 - **Sharing & Mentoring:** Structuring essential learning modules to help peers who aspire to start their careers in Quality Assurance.
