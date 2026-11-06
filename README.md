@@ -29,7 +29,7 @@ Version Control: Git, GitHub.
 
 ## 🚀 Featured Project
 ### [HMS QA Hub Pro](https://hms-qa-hub-pro.vercel.app/)
-A custom QA management platform designed to track test execution, manage test cases, and visualize real-time bug reports integrated with Looker Studio.
+A custom QA management platform designed to track test execution, manage test cases, and visualize real-time bug reports.
 - **Key Features:** Test Case Tracking, Bug Reporting Analytics, Automation Learning Roadmap.
 
 ## 🎯 Automation Learning Roadmap
