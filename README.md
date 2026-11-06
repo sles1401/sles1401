@@ -15,22 +15,33 @@ Test case design, bug reporting, and regression testing.
 
 My learning transition and practical projects in Automation Engineering.
 
-💻 Technologies & Tools:
-Quality Assurance & Test Automation
-Automation Focus: Playwright, Java.
-QA Tools & Ecosystem: QA Hub Tracking, Bug Reporting.
+## 💻 Technologies & Tools
 
-Core Methodologies: Functional Testing, API Testing, Regression Testing, Black-box Testing.
+### Quality Assurance & Test Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-Databases & Version Control
-Database Management: MySQL.
+### Databases & Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-Version Control: Git, GitHub.
+### Core Methodologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Functional_Testing-007ACC?style=for-the-badge" alt="Functional Testing" />
+  <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
+  <img src="https://img.shields.io/badge/Regression_Testing-6C757D?style=for-the-badge" alt="Regression Testing" />
+  <img src="https://img.shields.io/badge/Black--box_Testing-212529?style=for-the-badge" alt="Black-box Testing" />
+</p>
 
 ## 🚀 Featured Project
 ### [HMS QA Hub Pro](https://hms-qa-hub-pro.vercel.app/)
 A custom QA management platform designed to track test execution, manage test cases, and visualize real-time bug reports.
-- **Key Features:** Test Case Tracking, Bug Reporting Analytics, Automation Learning Roadmap.
+* **Key Features:** Test Case Tracking, Bug Reporting Analytics, Automation Learning Roadmap.
 
 ## 🎯 Automation Learning Roadmap
 - [x] Manual Testing & Test Case Design
@@ -38,12 +49,12 @@ A custom QA management platform designed to track test execution, manage test ca
 - [ ] API Automation Testing (Rest-Assured / Playwright)
 - [ ] CI/CD Integration for QA Workflows (GitHub Actions)
 
+## ⚡ My Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sles1401" alt="sles1401 trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sles1401&show_icons=true&theme=dark" alt="Suryani's GitHub Stats" />
 </p>
 
-- **Sharing & Mentoring:** Structuring essential learning modules to help peers who aspire to start their careers in Quality Assurance.
+* **Sharing & Mentoring:** Structuring essential learning modules to help peers who aspire to start their careers in Quality Assurance.
 
-My Stats ⚡
-Connect with Me! 🤝
+## 🤝 Connect with Me!
 Feel free to explore my repositories below!
