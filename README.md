@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://hms-qa-hub-pro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://suryani-lestari.my.id"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/suryani-lestari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sles1401?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
@@ -51,7 +52,11 @@ I'm a Software Quality Assurance Specialist dedicated to ensuring software relia
   <img src="https://img.shields.io/badge/Black--box_Testing-212529?style=for-the-badge" alt="Black-box Testing" />
 </p>
 
-## 🚀 Featured project
+## 🚀 Featured projects
+
+### [QA Portfolio](https://suryani-lestari.my.id)
+
+Live portfolio with project case studies, sanitized testing evidence, and a one-page CV. The site itself is audited for accessibility, performance, and SPA routing.
 
 ### [HMS QA Hub Pro](https://hms-qa-hub-pro.vercel.app/)
 
